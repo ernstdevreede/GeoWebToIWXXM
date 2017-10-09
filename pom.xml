@@ -35,8 +35,9 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		
 		<dependency>
-			<groupId>nl.knmi.geoweb.iwxxm</groupId>
+			<groupId>com.github.ernstdevreede</groupId>
 			<artifactId>geoweb-aviation-messageconverter</artifactId>
 			<version>1.0.2</version>
 			<scope>compile</scope>
